@@ -591,20 +591,20 @@
                 positions: [],
                 tiptopDegrees: ['本科', '大专', '硕士', '博士', '高中', '初中', '小学', '其他'],
                 options: [{
-                    value: '选项1',
-                    label: '黄金糕'
+                    value: '',
+                    label: ''
                 }, {
-                    value: '选项2',
-                    label: '双皮奶'
+                    value: '',
+                    label: ''
                 }, {
-                    value: '选项3',
-                    label: '蚵仔煎'
+                    value: '',
+                    label: ''
                 }, {
-                    value: '选项4',
-                    label: '龙须面'
+                    value: '',
+                    label: ''
                 }, {
-                    value: '选项5',
-                    label: '北京烤鸭'
+                    value: '',
+                    label: ''
                 }],
                 inputDepName: '所属部门',
                 emp: {

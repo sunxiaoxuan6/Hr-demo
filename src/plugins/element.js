@@ -16,10 +16,12 @@ import {
   Radio,RadioGroup,Popover,Tree,DatePicker,
   Switch,
   Collapse,CollapseItem,Card,
-  Steps,Step,Loading,Image,Pagination,Upload
+  Steps,Step,Loading,Image,Pagination,Upload,Col,Row
 } from 'element-ui'
 
+Vue.use(Row)
 Vue.use(Loading)
+Vue.use(Col)
 Vue.use(Upload)
 Vue.use(Image)
 Vue.use(Pagination)
